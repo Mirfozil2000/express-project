@@ -1,1 +1,6 @@
 20230712	15:26:27	b80218a6-e52d-4343-94af-26793b1ee032	Error: Not allowed by CORS
+20230712	15:42:26	de9da728-d631-42da-b9d6-c9cf1a48ac9c	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Downloads\nodejs_web_server-main\routes\views\index.html'
+20230712	15:42:33	41c539fa-a4f8-460c-961e-02ba9713f905	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Downloads\nodejs_web_server-main\routes\views\index.html'
+20230712	15:43:10	bac2e003-e124-4760-bd64-fc3e1aa8f609	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Downloads\nodejs_web_server-main\routes\views\index.html'
+20230712	15:43:10	b8bebec2-0ea1-4891-8312-abdbda43a7fb	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Downloads\nodejs_web_server-main\routes\views\index.html'
+20230712	15:43:11	9884703a-71be-4b0a-8c96-11d958315b27	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Downloads\nodejs_web_server-main\routes\views\index.html'
