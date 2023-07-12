@@ -1,3 +1,26 @@
 20230711	18:25:10	b7da4855-abfd-4f81-95bd-96eeb8edde6a	/	GET
 20230711	18:25:10	aa86ab9b-8236-4a0c-a069-eda5709c3e8a	/css/style.css	GET
 20230711	18:25:10	76c0bb3d-3fdb-41f9-ac8e-a410703c4ebb	/favicon.ico	GET
+20230712	15:12:33	d2ebaaeb-3c9a-436e-bb66-63947cd9916a	GET	undefined	/new-page.html
+20230712	15:12:33	3a70d19d-49c7-4253-9bc4-224ab063d6ad	GET	undefined	/css/style.css
+20230712	15:12:33	1356a374-c75e-47d6-a158-baa51bfaa448	GET	undefined	/img/img1.jpg
+20230712	15:15:41	7a0b50f2-e553-4abf-aca5-781b8513bcb4	OPTIONS	https://www.google.com	/index
+20230712	15:15:41	16589064-2807-4e5d-a187-0dfde319466b	GET	https://www.google.com	/index
+20230712	15:20:05	9dc3cfb4-210d-42be-ac9e-0312953a8d84	OPTIONS	https://www.google.com	/
+20230712	15:20:05	bad29809-e4a5-4761-8585-d33f1ff89672	GET	https://www.google.com	/
+20230712	15:22:19	8bc96cad-d54d-41e7-a200-3cf0e9862463	GET	undefined	/new-page.html
+20230712	15:22:43	04f6df95-890d-4759-9cd7-298249fb9eb8	GET	undefined	/new-page.html
+20230712	15:22:43	268ccbfd-e0f1-489b-989c-e2e5a854bd32	GET	undefined	/css/style.css
+20230712	15:22:43	fcad6619-48c0-4ae3-a8b9-1dbfd0281932	GET	undefined	/img/img1.jpg
+20230712	15:22:44	50dba7ec-e222-46d0-a5f4-67676ae1f612	GET	undefined	/new-page.html
+20230712	15:22:44	e8cc4b48-ca3a-4732-9090-b7d57bf7b62e	GET	undefined	/css/style.css
+20230712	15:22:44	9439c59e-2302-4942-a1b3-a9291d8cdd54	GET	undefined	/img/img1.jpg
+20230712	15:26:27	8491edd2-b9c3-4391-b2c6-611064996e62	GET	undefined	/new-page.html
+20230712	15:26:35	0a108ec9-f152-4357-9fee-926829d83ece	GET	undefined	/new-page.html
+20230712	15:26:35	609ea79d-5c1d-4e96-9ce7-f5156ce96479	GET	undefined	/css/style.css
+20230712	15:26:35	7a14f6ff-2bd4-4076-b52e-a396fe072a37	GET	undefined	/img/img1.jpg
+20230712	15:29:14	ff18fd6d-be28-4808-be63-126c2e24afdf	GET	undefined	/new-page.html
+20230712	15:29:14	574f7088-48b7-4450-a6f4-0491ff9229b8	GET	undefined	/css/style.css
+20230712	15:29:14	e4208df5-d64d-4313-a8d3-833f58bf086c	GET	undefined	/img/img1.jpg
+20230712	15:29:17	16b8b10a-ba80-4dd9-9cf6-8b6159315eed	GET	undefined	/
+20230712	15:29:17	dd552178-32f7-4569-95a2-15ed5cd30f68	GET	undefined	/css/style.css
